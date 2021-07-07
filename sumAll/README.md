@@ -1,4 +1,4 @@
-# Exercise 05 - sumAll
+# Exercise 05 - sumAll (FINISHED)
 
 Implement a function that takes 2 integers and returns the sum of every number between(and including) them:
 
