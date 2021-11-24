@@ -1,4 +1,4 @@
-# Exercise 09 - Palindromes
+# Exercise 09 - Palindromes (FINISHED)
 
 Write a function that determines whether or not a given string is a palindrome.
 
